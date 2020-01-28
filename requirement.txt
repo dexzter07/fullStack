@@ -18,3 +18,4 @@ six==1.14.0
 soupsieve==1.9.5
 sqlparse==0.3.0
 wrapt==1.11.2
+django-rext-knox==4.0
